@@ -15,9 +15,9 @@ Este proyecto fue desarrollado como trabajo final del curso **IA & Data 2025**, 
   - Navegación entre páginas y tooltips personalizados.
 
 ## 📂 Estructura del repositorio
-- **Datos_Originales/** → fuentes de datos utilizadas.
-- **Dataset_Limpios/** → datos listos para Power BI.
-- **Proceso_ETL/** → scripts y notebooks de preparación.
+- **Datos_Originales** → fuentes de datos utilizadas.
+- **Dataset_Limpios** → datos listos para Power BI.
+- **Proceso_ETL** → notebooks de preparación.
 - **Proyecto_IA&DATA.pbix** → archivo de Power BI con el dashboard final.
 - **Trabajo_Final.pdf** → informe del curso.
 
