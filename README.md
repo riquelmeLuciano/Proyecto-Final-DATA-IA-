@@ -4,7 +4,7 @@
 
 **NOMBRE:** LUCIANO RIQUELME 
 
-**FECHA:** 15/09/25
+**FECHA:** 20/07/25
 
 **CONTACTO:** luciano.luiz.riquelme@gmail.com
 
