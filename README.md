@@ -27,7 +27,18 @@ Este proyecto fue desarrollado como trabajo final del curso **IA & Data 2025**, 
 - **Excel / CSV (fuentes de datos)**
 
 ## 📸 Capturas del Dashboard
-*(Aquí puedes agregar imágenes de tu dashboard para hacerlo más atractivo.)*
+Portada
+<p align="center">
+  <img src="Imagen dashboard/1.PNG" alt="Gráfico de ejemplo" width="600"/>
+</p>
+Dashboard
+<p align="center">
+  <img src="Imagen dashboard/2.PNG" alt="Gráfico de ejemplo" width="600"/>
+</p>
+tooltips
+<p align="center">
+  <img src="Imagen dashboard/3.PNG" alt="Gráfico de ejemplo" width="600"/>
+</p>
 
 ## 📌 Resultados
 El dashboard permite obtener insights clave de los datos analizados, facilitando la toma de decisiones mediante visualizaciones claras, interactivas y personalizadas.
