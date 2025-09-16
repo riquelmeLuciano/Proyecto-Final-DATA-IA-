@@ -11,7 +11,7 @@
 Este proyecto fue desarrollado como trabajo final del curso **IA & Data 2025**, con el objetivo de aplicar técnicas de integración de datos, limpieza y visualización.
 
 ## 🚀 Objetivos
-- Integrar datos de múltiples fuentes (Excel, CSV, etc.).
+- Integrar datos de múltiples fuentes (CSV y xlsx).
 - Realizar un proceso ETL para obtener datasets limpios.
 - Desarrollar un dashboard interactivo en Power BI con:
   - Gráficos dinámicos.
@@ -47,11 +47,18 @@ tooltips
 <p align="center">
   <img src="Imagen dashboard/3.PNG" alt="tooltips" width="600"/>
 </p>
+
 ---
+
 ## 📌 Resultados
-- El dashboard permite explorar:  
-  - Evolución del empleo registrado en Corrientes (2015–2021).  
-  - KPI de población y empleo promedio.  
-  - Distribución sectorial y geográfica (departamentos).  
+
+- El dashboard permite explorar:
+   
+  - Evolución del empleo registrado en Corrientes (2015–2021).
+    
+  - KPI de población y empleo promedio.
+    
+  - Distribución sectorial y geográfica (departamentos).
+      
   - Interactividad con filtros, segmentadores y tooltips personalizados.
 
